@@ -1,0 +1,2 @@
+# Project 1: Icecream Shop
+This is the first website I built for my portfolio. I designed a new brand, in this case an Ice cream shop, and experimented with the web design along the making to finally get this result. All of the content was manually coded vanilla and this website was a test to myself to prove all the knowledge I adquired at that point in my learning process of being a Software Engineer. It's the first website I made, including the design, fully responsive.
