@@ -4,6 +4,4 @@ This is the first website I built for my portfolio. I designed a new brand, in t
 ![image](https://user-images.githubusercontent.com/103332504/206475678-0f4daba8-4135-4eca-832e-e2e7fd0cd29b.png)
 **Link to the project:** https://martincosimano.github.io/icecream-shop-website/
 
-## How It's Made:
-
 **Tech used:** HTML, CSS, JavaScript.
