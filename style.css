@@ -30,6 +30,7 @@ a {
     font-size: 0.95rem;
     line-height: 1.6;
     font-family: var(--ff-primary);
+    text-decoration: none;
 }
 
 html {
@@ -77,8 +78,7 @@ h2 {
     padding-bottom: 2rem;
 }
 
-a {
-    text-decoration: none;
+.anchor-style {
     padding: 0.5rem;
     text-shadow: 0.06rem 0.06rem 0.438rem white;
     font-family: var(--ff-terceary);
@@ -116,6 +116,16 @@ h6 {
     border-top: 0.13rem solid #ebebeb;
     padding-top: 1rem;
     font-size: 0.84rem;
+}
+
+.footer-anchor {
+    transition: 0.3s;
+    font-family: var(--ff-secondary);
+    font-size: 0.84rem;
+}
+
+.footer-anchor:hover {
+    color:#d66587;
 }
 
 /******************************************
@@ -307,7 +317,7 @@ footer span {
 /* ADDITIONAL STYLES
 /*******************************************/
   
-li a,
+li .anchor-style,
 .img-effect,
 .container-1 img,
 .container-split3--list img {
@@ -328,7 +338,7 @@ li a,
     border-radius: 0.2rem;
 }
 
-a:hover {
+.anchor-style:hover {
     background-color: #d66587;
     transition: 0.3s;
     color: #fff;
